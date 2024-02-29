@@ -1,0 +1,4 @@
+external-sources=true
+
+input=src/*.sh
+disable=SC2034

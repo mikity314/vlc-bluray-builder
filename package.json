@@ -1,0 +1,9 @@
+{
+  "name": "vlc-bluray-builder",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-sh": "^0.14.0"
+  }
+}

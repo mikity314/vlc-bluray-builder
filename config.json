@@ -1,0 +1,17 @@
+{
+    "build": {
+        "libgpg-error": {
+            "src": "git://git.gnupg.org/libgpg-error.git",
+            "ref": "libgpg-error-1.48"
+        },
+        "libgcrypt": {
+            "src": "https://git.gnupg.org/libgcrypt.git",
+            "ref": "libgcrypt-1.8.11"
+        },
+        "libaacs": {
+            "src": "https://code.videolan.org/videolan/libaacs.git",
+            "ref": "0.11.1"
+        }
+    }
+    
+}
